@@ -1,4 +1,4 @@
-package tugasweek07.marchel.id.ac.umn;
+package tugasweek07.marchel.id.ac.umn.tutorial1;
 
 public abstract class Payment {
     protected double amount;

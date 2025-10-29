@@ -1,4 +1,4 @@
-package tugasweek07.marchel.id.ac.umn;
+package tugasweek07.marchel.id.ac.umn.tutorial1;
 
 class BankTransferPayment extends Payment {
     private String bankAccount;

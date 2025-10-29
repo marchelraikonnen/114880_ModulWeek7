@@ -1,4 +1,4 @@
-package tugasweek07.marchel.id.ac.umn;
+package tugasweek07.marchel.id.ac.umn.tutorial2;
 
 public class Item {
     private String Name;
